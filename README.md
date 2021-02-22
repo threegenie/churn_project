@@ -5,7 +5,7 @@
 #### 데이터셋
 - https://www.kaggle.com/blastchar/telco-customer-churn
 
-#### 사용 된 패키지:
+#### 패키지
 
 - EDA/전처리 : pandas, numpy, matplotlib, seaborn
 
