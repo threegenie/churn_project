@@ -1,1 +1,2 @@
-# churn_project
+# Telecom Customer Churn
+
