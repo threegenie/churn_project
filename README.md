@@ -9,4 +9,4 @@
 
 - EDA/전처리 : pandas, numpy, matplotlib, seaborn
 
-- Modeling/Hyperparameter Tuning: lightgbm, xgboost, catboost, scikit-learn
+- Modeling/Hyperparameter Tuning: lightgbm, xgboost, scikit-learn
