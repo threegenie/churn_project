@@ -1,4 +1,4 @@
-## ☎️ Telecom Customer Churn Classification ☎️
+# ☎️ Telecom Customer Churn Classification ☎️
 
 머신러닝 알고리즘을 활용하여 통신사 변경 여부를 예측하는 모델 만들기
 
