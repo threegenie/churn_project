@@ -10,3 +10,11 @@
 - EDA/전처리 : pandas, numpy, matplotlib, seaborn
 
 - Modeling/Hyperparameter Tuning: lightgbm, xgboost, scikit-learn
+
+#### Code
+
+- [분석내용 코드 링크](https://github.com/threegenie/churn_project/blob/main/telco_customer_churn.ipynb)
+
+#### 프로젝트 정리
+
+- [프로젝트 PPT 링크](https://github.com/threegenie/churn_project/blob/main/Project%20PPT.md)
